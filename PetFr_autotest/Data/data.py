@@ -1,2 +1,2 @@
 valid_login = "stron@gmail.com"
-valid_password = "qwertyuiop2"
+valid_password = "qwertyuiop"
